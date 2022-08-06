@@ -1,0 +1,14 @@
+{
+  "name": "interactividades",
+  "version": "1.0.0",
+  "description": "base de datos dummy para el proyecto interactividades",
+  "main": "server.js",
+  "scripts": { 
+    "start": "node server.js" 
+  },
+  "author": "Martin Ducau",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
